@@ -1,5 +1,5 @@
 pushplus_token: 123456abc ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-kk_cookie: _UP_A4A_11_=wb9041b7ea5a4a3aa0a4419c3870689b##夸克网盘cookie
+kk_cookie: 123456abc ##夸克网盘cookie
 jd_cookie: 123456abc ##京东cookie
